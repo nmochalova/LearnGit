@@ -1,5 +1,5 @@
 "line from terminal"
 "line from github"
-"little changes..."
+"MAIN changes from terminal"
 "Перед началом работы прочитайте руководство пользователя"
 
